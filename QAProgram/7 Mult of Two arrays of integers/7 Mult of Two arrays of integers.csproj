@@ -8,7 +8,7 @@
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>_7_Mult_of_Two_arrays_of_integers</RootNamespace>
-    <AssemblyName>_7_Mult_of_Two_arrays_of_integers</AssemblyName>
+    <AssemblyName>7 Mult of Two arrays of integers</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{200DD2F5-736F-44F0-87A8-13112D62165F}</ProjectGuid>
+    <ProjectGuid>{58BC5978-7DB3-42D6-A9E7-40BD1C883EA7}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>_8_largest_and_lowest</RootNamespace>
-    <AssemblyName>8 largest and lowest</AssemblyName>
+    <RootNamespace>_15_Even_or_ODD</RootNamespace>
+    <AssemblyName>15 Even or ODD</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
