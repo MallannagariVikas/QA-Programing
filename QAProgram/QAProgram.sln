@@ -65,6 +65,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28 Pyramid", "28 Pyramid\28
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29 Factorial", "29 Factorial\29 Factorial.csproj", "{9FE9823A-E07E-4064-B48E-0A878E733B8D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30 Harmonic", "30 Harmonic\30 Harmonic.csproj", "{E51CD86E-5564-48B6-B154-9EE7C8F1D210}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -195,6 +197,10 @@ Global
 		{9FE9823A-E07E-4064-B48E-0A878E733B8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FE9823A-E07E-4064-B48E-0A878E733B8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FE9823A-E07E-4064-B48E-0A878E733B8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E51CD86E-5564-48B6-B154-9EE7C8F1D210}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E51CD86E-5564-48B6-B154-9EE7C8F1D210}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E51CD86E-5564-48B6-B154-9EE7C8F1D210}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E51CD86E-5564-48B6-B154-9EE7C8F1D210}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

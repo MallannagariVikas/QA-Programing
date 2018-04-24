@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{B8D1420E-972F-4A1E-816F-51A0CB35C722}</ProjectGuid>
+    <ProjectGuid>{E51CD86E-5564-48B6-B154-9EE7C8F1D210}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>QAProgram</RootNamespace>
-    <AssemblyName>QAProgram</AssemblyName>
+    <RootNamespace>_30_Harmonic</RootNamespace>
+    <AssemblyName>30 Harmonic</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,18 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="31 Floyds Triangle.cs" />
-    <Compile Include="32 Perfect Number.cs" />
-    <Compile Include="33 Armstrong number.cs" />
-    <Compile Include="34 Dimond.cs" />
-    <Compile Include="35 Prime or Not.cs" />
-    <Compile Include="36 Prime Numbers in range.cs" />
-    <Compile Include="37 Fibionacci Series.cs" />
-    <Compile Include="38 Reverse Order.cs" />
-    <Compile Include="39 Palindrome.cs" />
-    <Compile Include="40 Sum Of All Integers.cs" />
-    <Compile Include="41 HCF.cs" />
-    <Compile Include="42 LCM.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

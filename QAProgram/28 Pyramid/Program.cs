@@ -21,10 +21,10 @@ namespace _28_Pyramid
             for (i = 1; i <= x; i++)
             {
                 for (j = 1; j <= x - i; j++)
-                    Console.Write(" ");
+                    Console.Write("*");
                 for (j = 1; j <= i; j++)
                 {
-                    Console.Write(k + " ");
+                    Console.Write(k + "*");
                     k++;
                 }
                 Console.WriteLine();
